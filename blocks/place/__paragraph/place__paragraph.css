@@ -11,7 +11,7 @@
 }
 
 
-.place__paragraph p:last-child {
+.place__paragraph:last-child {
     margin-bottom: 0;
 }
 

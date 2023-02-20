@@ -11,7 +11,7 @@
 }
 
 
-.place__paragraph:nth-of-type(2n) {
+.place__paragraph p:last-child {
     margin-bottom: 0;
 }
 
